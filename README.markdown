@@ -1,6 +1,8 @@
 Java Style Guide
 ================
 
+This is the style guide that we will be following during OOPD at Copenhagen University. It highlights the most important and most common conventions for writing Java code.
+
 **Words used:**
 
 - "Avoid" means don't do this unless you have a good reason.
