@@ -8,7 +8,7 @@ Java Style Guide
 - "Prefer" indicates a better option and its alternative to watch out for.
 - "Use" is a positive instruction.
 
-See [Example.java]() for an example of code following these rules.
+See [Example.java](https://github.com/davidpdrsn/Java-Style-Guide/blob/master/Example.java) for an example of code following these rules.
 
 Formatting
 ----------
