@@ -6,7 +6,10 @@ class Person {
 
   private String name;
   private int age;
-
+  
+  /**
+   * Make a new person with the given name and age
+   */
   public Person(String name, int age) {
     this.name = name;
     this.age = age;
@@ -19,6 +22,9 @@ class Person {
     System.out.println(this.buildGreenting());
   }
 
+  /**
+   * Build a greeting
+   */
   public String buildGreenting() {
     return "Hi my name is " + this.name;
   }
