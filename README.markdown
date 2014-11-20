@@ -34,7 +34,8 @@ Naming
 ------
 
 - Use `lowerCamelCase` for variable/method names and `UpperCamelCase` for class/interface names.
-- Prefer longer clearer names rather than sorter unclear names.
+- Prefer longer clearer names rather than shorter unclear names.
+- Prefer code thats clear and easy to rather rather than unclear code that requires lots of comments.
 
 Organization
 ------------
@@ -48,3 +49,8 @@ The order of things inside classes should be:
 5. Instance methods
 6. Private static methods
 7. Private instance methods
+
+Writing the code
+----------------
+
+- Use Vim or Emacs (no Eclipse) and spend time learning/configuring your editor. Its your best friend ;)
