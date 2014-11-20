@@ -53,4 +53,4 @@ The order of things inside classes should be:
 Writing the code
 ----------------
 
-- Use Vim or Emacs (no Eclipse) and spend time learning/configuring your editor. Its your best friend ;)
+- Use Vim or Emacs (no Eclipse) and spend time learning/configuring your editor. Its your best friend :smile:
