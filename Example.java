@@ -8,7 +8,7 @@ class Person {
   private int age;
   
   /**
-   * Make a new person with the given name and age
+   * Make a new person with the given name and age.
    */
   public Person(String name, int age) {
     this.name = name;
@@ -16,19 +16,22 @@ class Person {
   }
 
   /**
-   * Greet people
+   * Greet people.
    */
   public void greet() {
     System.out.println(this.buildGreenting());
   }
 
   /**
-   * Build a greeting
+   * Build a greeting.
    */
   public String buildGreenting() {
     return "Hi my name is " + this.name;
   }
 
+  /**
+   * Get the persons age.
+   */
   public int getAge() {
     return this.age;
   }
