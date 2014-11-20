@@ -39,7 +39,7 @@ Naming
 Organization
 ------------
 
-The order of things inside class should be:
+The order of things inside classes should be:
 
 1. Static variables
 2. Instance variables
