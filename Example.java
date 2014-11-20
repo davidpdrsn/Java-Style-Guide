@@ -1,3 +1,6 @@
+/**
+ * Some high level comment describing what the person class does.
+ */
 class Person {
   private static String property;
 
@@ -9,6 +12,9 @@ class Person {
     this.age = age;
   }
 
+  /**
+   * Greet people
+   */
   public void greet() {
     System.out.println(this.buildGreenting());
   }
