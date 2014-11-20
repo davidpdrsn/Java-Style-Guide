@@ -16,9 +16,9 @@ Formatting
 ----------
 
 - Don't write lines longer than 80 characters.
-- Avoid methods longer than 10 lines.
-- Don't write methods longer than 15 lines.
-- Don't write classes that are longer than 150 lines.
+- Avoid methods longer than 5 lines.
+- Don't write methods longer than 10 lines.
+- Don't write classes that are longer than 100 lines (not including comments).
 - Use two spaces for indentation. No tabs.
 - Write comments and all names in English. Danish code is confusing.
 - Don't write comments for each single line. Write high level comments above classes or methods explaining what the code does, not how it does it.
