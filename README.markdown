@@ -26,7 +26,7 @@ Formatting
 - Use an empty line between method definitions.
 - Don't use extra empty lines at the end and beginning of class/method definitions.
 - Don't includes spaces before `()` or `[]` when writing or calling methods.
-- Don't include a newline before `{}`.
+- Don't include a newline before `{`. Don't use C# style.
 - Use spaces around operators, except unary operators, such as `!`.
 - Prefix calls to instance methods and accesses of instance variables with `this.` when inside a class.
 
