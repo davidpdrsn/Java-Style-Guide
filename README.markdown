@@ -29,7 +29,6 @@ Formatting
 - Don't include a newline before `{`. Don't use C# style.
 - Use spaces around operators, except unary operators, such as `!`.
 - Prefix calls to instance methods and accesses of instance variables with `this.` when inside a class.
-- Constants should be all uppercase and with underscores, `MY_CONSTANT`.
 
 Naming
 ------
@@ -37,6 +36,7 @@ Naming
 - Use `lowerCamelCase` for variable/method names and `UpperCamelCase` for class/interface names.
 - Prefer longer clearer names rather than shorter unclear names.
 - Prefer code thats clear and easy to rather rather than unclear code that requires lots of comments.
+- Constants should be all uppercase and with underscores, `MY_CONSTANT`.
 
 Organization
 ------------
