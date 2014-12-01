@@ -29,6 +29,7 @@ Formatting
 - Don't include a newline before `{`. Don't use C# style.
 - Use spaces around operators, except unary operators, such as `!`.
 - Prefix calls to instance methods and accesses of instance variables with `this.` when inside a class.
+- Constants should be all uppercase and with underscores, `MY_CONSTANT`.
 
 Naming
 ------
