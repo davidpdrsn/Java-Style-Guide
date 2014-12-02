@@ -1,7 +1,7 @@
 Java Style Guide
 ================
 
-This is the style guide that we will be following during OOPD at Copenhagen University. It highlights the most important and most common conventions for writing Java code.
+This is the style guide that we will be following during OOPD at University of Copenhagen. It highlights the most important and most common conventions for writing Java code.
 
 **Words used:**
 
@@ -25,7 +25,7 @@ Formatting
 - Don't include trailing whitespace.
 - Use an empty line between method definitions.
 - Don't use extra empty lines at the end and beginning of class/method definitions.
-- Don't includes spaces before `()` or `[]` when writing or calling methods.
+- Don't include spaces before `()` or `[]` when writing or calling methods.
 - Don't include a newline before `{`. Don't use C# style.
 - Use spaces around operators, except unary operators, such as `!`.
 - Prefix calls to instance methods and accesses of instance variables with `this.` when inside a class.
@@ -34,8 +34,8 @@ Naming
 ------
 
 - Use `lowerCamelCase` for variable/method names and `UpperCamelCase` for class/interface names.
-- Prefer longer clearer names rather than shorter unclear names.
-- Prefer code thats clear and easy to rather rather than unclear code that requires lots of comments.
+- Prefer longer clearer names and not shorter unclear names.
+- Prefer code that's clear and easy to understand and not unclear code that requires lots of comments.
 - Constants should be all uppercase and with underscores, `MY_CONSTANT`.
 
 Organization
