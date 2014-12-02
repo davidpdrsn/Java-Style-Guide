@@ -35,7 +35,7 @@ Naming
 
 - Use `lowerCamelCase` for variable/method names and `UpperCamelCase` for class/interface names.
 - Prefer longer clearer names and not shorter unclear names.
-- Prefer code that's clear and easy to read and not unclear code that requires lots of comments.
+- Prefer code that's clear and easy to understand and not unclear code that requires lots of comments.
 - Constants should be all uppercase and with underscores, `MY_CONSTANT`.
 
 Organization
